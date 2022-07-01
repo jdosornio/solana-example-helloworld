@@ -170,9 +170,9 @@
     buffer "~6.0.3"
 
 "@solana/web3.js@^1.33.0":
-  version "1.44.2"
-  resolved "https://registry.yarnpkg.com/@solana/web3.js/-/web3.js-1.44.2.tgz#5303efd94a7f2d6054a1483a4b4db4a26eb2a392"
-  integrity sha512-DvrJMoKonLuaX0/KyyJXcP/+w+9q8mve4gN3hC2Ptg51K/Gi1/cx6oQN2lbRZb4wYPBd2s2GDAJAJUAwZGsEug==
+  version "1.47.1"
+  resolved "https://registry.yarnpkg.com/@solana/web3.js/-/web3.js-1.47.1.tgz#21243d4a19836584bc3429d3cee602191646f845"
+  integrity sha512-snsEZDR4smySxY6ZBNJUPStTVKkbgBiel14VZDjRC79Pcol3nbxjlg6HGg4rvfCSkSbpDPJPPwoTImigflEBBg==
   dependencies:
     "@babel/runtime" "^7.12.5"
     "@ethersproject/sha2" "^5.5.0"
@@ -186,7 +186,7 @@
     jayson "^3.4.4"
     js-sha3 "^0.8.0"
     node-fetch "2"
-    rpc-websockets "^7.4.2"
+    rpc-websockets "^7.5.0"
     secp256k1 "^4.0.2"
     superstruct "^0.14.2"
     tweetnacl "^1.0.0"
@@ -1529,7 +1529,7 @@ rimraf@^3.0.2:
   dependencies:
     glob "^7.1.3"
 
-rpc-websockets@^7.4.2:
+rpc-websockets@^7.5.0:
   version "7.5.0"
   resolved "https://registry.yarnpkg.com/rpc-websockets/-/rpc-websockets-7.5.0.tgz#bbeb87572e66703ff151e50af1658f98098e2748"
   integrity sha512-9tIRi1uZGy7YmDjErf1Ax3wtqdSSLIlnmL5OtOzgd5eqPKbsPpwDP5whUDO2LQay3Xp0CcHlcNSGzacNRluBaQ==
